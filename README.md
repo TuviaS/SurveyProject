@@ -6,7 +6,8 @@ Can be used in a working place, in which the management wishes to run a survey a
 You add your employees on the employee service, remove them and amend their details - full CRUD supplied.
 On the Survey service you add your questions, and employees suppy their answers (a chech is made on the employee service, to verify the employee is indeed 
 employed there; on resigning a worker is removed from the employee service - and all of the corresponding answers are deleted as well). 
-Services run on ports 8080, 8081. 
+Services run on ports 8080, 8081.
+
 queries on API:
 
 *Employee service*
