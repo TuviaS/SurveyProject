@@ -1,6 +1,6 @@
 # SurveyProject
 
-A survey project. consits two microservices - Employee service aNd the Survey service, both use API to communicate with eachother.
+A survey project. consits two microservices - Employee service and the Survey service, both use API to communicate with eachother.
 
 Can be used in a working place, in which the management wishes to run a survey among the employees. 
 You add your employees on the employee service, remove them and amend their details - full CRUD supplied.
